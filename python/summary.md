@@ -12,8 +12,8 @@
 5. Errors/Exceptions
 6. Classes
 6.1 Scopes and namespaces
-6.2. Class objects
-6.3. Isntance Objects
+6.2. Classes objects
+6.3. Instance Objects
 6.4. Method objects
 6.5. Inheritance
 6.5.1. Multiple inheritance
